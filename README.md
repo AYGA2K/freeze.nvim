@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Neovim plugin enables users to take screenshots of files within Neovim using the Freeze CLI tool.
+A Neovim plugin to generate images of code using the Freeze CLI tool.
 
 ## Installation with Lazy
 
@@ -17,9 +17,8 @@ This Neovim plugin enables users to take screenshots of files within Neovim usin
 
 ## Usage
 
-- Use the `require('freeze').freeze()` command to take a screenshot of the current opened file.
+- Use the `require('freeze').freeze()` command to generate an image of the code in the current buffer.
 
 ## Configuration
 
-- Optionally, you can customize the save path for screenshots.
-
+- Optionally, you can customize the save path for the images.
