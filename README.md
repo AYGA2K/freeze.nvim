@@ -4,12 +4,15 @@
 
 This Neovim plugin enables users to take screenshots of files within Neovim using the Freeze CLI tool.
 
-## Installation
+## Installation with Lazy
 
 ```
-{ "AYGA2K/freeze.nvim", opts = {
-  save_path = "~/Pictures/",
-} }
+{
+  "AYGA2K/freeze.nvim",
+  opts = {
+    save_path = "~/Pictures/",
+  },
+}
 ```
 
 ## Usage
