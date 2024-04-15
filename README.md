@@ -20,6 +20,3 @@ This Neovim plugin enables users to take screenshots of files within Neovim usin
 
 - Optionally, you can customize the save path for screenshots.
 
-## License
-
-This plugin is licensed under the MIT License.
