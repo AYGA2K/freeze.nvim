@@ -4,7 +4,7 @@
 
 A Neovim plugin to generate images of code using the Freeze CLI tool.
 
-## Freeze CLI/TUI
+## Install the Freeze CLI/TUI
 [Freeze](https://github.com/charmbracelet/freeze)
 
 ## Installation with Lazy
